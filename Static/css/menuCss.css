@@ -1,0 +1,243 @@
+
+#bodyHole{
+
+	margin : 0px;
+	padding : 0px;
+	width : 100%;
+
+}
+
+#majesty{
+background : url('../Images/ImagesForMenu/airPort.jpg');
+background-size: 100% 100%;
+position : relative;
+height : 450px;
+width : 100%;
+margin : 0px 0px 0px 0px;
+}
+
+label{
+
+	display : block
+
+}
+
+#ForUImage{
+
+	position : relative;
+	margin : 0px 0px 0px 0px;
+	height : 219px;
+	width : 100%;
+    background: url(../Images/ImagesForMenu/U.jpg);
+    background-size: 100% 100%;
+}
+
+#LoginUser{
+
+	font-family: Calibri;
+	font-weight : bolder;
+	font-size : 17px;
+	color : white;
+
+}
+
+#email{
+
+	font-family: Calibri;
+	font-weight : bolder;
+	font-size : 17px;
+	color : white;
+
+}
+#FirstName{
+
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+	padding : 0px 0px 0px 5px ;
+
+}
+
+#LastName{
+
+	padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#UserName{
+
+padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#EmailInput{
+
+	padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#inputForPhoneNumber{
+
+	padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#inputForDate{
+
+	padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#countryOption{
+
+	padding : 0px 0px 0px 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+#fireEventButton{
+
+	border: 1px solid black;
+	margin: 0 auto;
+    border-radius: 10px;
+	background-color : orange;c
+
+}
+
+input{
+
+	font-size : 15px;
+	font-family:Lucida Console
+}
+
+#Home{
+
+	position : absolute;
+	font-size : 29px;
+	color : white;
+	margin : 80px 0px 0px 380px;
+	font-weight : bolder;
+}
+
+#Menu{
+
+	position : absolute;
+	font-size : 29px;
+	color : white;
+	margin : 80px 0px 0px 240px;
+	font-weight : bolder;
+
+}
+
+#About{
+
+	position : absolute;
+	font-size : 29px;
+	color : white;
+	margin : 80px 0px 0px 660px;
+	font-weight : bolder
+
+}
+
+#Event{
+
+	position : absolute;
+	font-size : 29px;
+	color : white;
+	margin : 80px 0px 0px 530px;
+	font-weight : bolder
+
+}
+
+#buttonForLogin{
+
+	position : absolute;
+	margin : -28px 0px 0px 262px;
+	width : 93px;
+	height : 28px;
+	border-radius: 10px;
+	border-width: 3px;
+	border-style: thin;
+	border-color: white;
+
+}
+
+#Home:hover{
+
+	cursor : hand;
+	text-decoration : underline;
+	/*  transition: 1s all ease-in-out;*/
+	 transform: translateX(5px);
+	   transition: all .35s ease-in-out;
+}
+
+#Menu:hover{
+
+	cursor : hand;
+	text-decoration : underline;
+	/*  transition: 1s all ease-in-out;*/
+	 transform: translateX(5px);
+	   transition: all .35s ease-in-out;
+
+}
+
+#About:hover{
+
+	cursor : hand;
+	text-decoration : underline;
+	/*  transition: 1s all ease-in-out;*/
+	 transform: translateX(5px);
+	   transition: all .35s ease-in-out;
+
+}
+
+#Event:hover{
+
+	cursor : hand;
+	text-decoration : underline;
+	/*  transition: 1s all ease-in-out;*/
+	 transform: translateX(5px);
+	   transition: all .35s ease-in-out;
+
+}
+
+#buttonForLogin:hover{
+
+	  transition: 1s all ease-in-out;
+	 transform: translateY(5px);
+	  /* transition: all .35s ease-in-out;*/
+	  cursor:hand
+
+}
+
+#buttonOpenner:hover{
+
+
+	transition: 1s all ease-in-out;
+	 transform: translateY(5px);
+	   transition: all .97s ease-in-out;
+	   cursor : hand
+}
+
+#SecondDiv{
+
+	display: none;
+
+}

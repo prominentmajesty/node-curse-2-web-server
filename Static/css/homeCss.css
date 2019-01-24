@@ -1,0 +1,38 @@
+
+
+#firstHomeDiv{
+
+    position : relative;
+    height: 470px;
+    width: 100%;
+    background : url(../Images/ImageForHome/background.jpg);
+    margin: 0px 0px 0px 0px;
+}
+
+#secondHomeDive{
+
+position : relative;
+margin: 5px 0px 0px 0px;
+height: 270px;
+width : 100%;
+background: url(../Images/ImageForHome/whitePeople.jpg);
+background-size: 100% 100%;
+
+}
+
+#ThirdHomeDiv{
+position: relative;
+height: 270px;
+width : 100%;
+background: url(../Images/ImageForHome/us.jpg);
+background-size: 100% 100%
+}
+
+#divRegister{
+
+    background: rgba(230, 295,474, 0.6);
+    position: absolute;
+    margin:  8px 0px 0px 160px;
+    height: 460px;
+    width: 860px;
+}
