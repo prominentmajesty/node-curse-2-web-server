@@ -4,18 +4,12 @@
     padding: 0;
 }
 
-#majestyman{
-
-  width: 100%;
-
-}
-
 #menu{
 
     position: absolute;
     margin: 50px 0px 0px 83px;
     font-style: normal;
-    font-size: 26px
+    font-size: 26px;
 
   }
 

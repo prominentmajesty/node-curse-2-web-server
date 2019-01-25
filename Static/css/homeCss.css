@@ -4,9 +4,8 @@
 
     position : relative;
     height: 470px;
-    width: 100%;
+    background-size: 100% 100%;
     background : url(../Images/ImageForHome/background.jpg);
-    margin: 0px 0px 0px 0px;
 }
 
 #secondHomeDive{
