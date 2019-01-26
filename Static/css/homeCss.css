@@ -5,7 +5,7 @@
     position : relative;
     height: 470px;
     background-size: 100% 100%;
-    background : url(../Images/ImageForHome/background.jpg);
+    background-image : url(../Images/ImageForHome/background.jpg);
 }
 
 #secondHomeDive{
